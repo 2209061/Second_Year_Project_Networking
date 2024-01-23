@@ -1,0 +1,25 @@
+MAIN OBJECTIVE OF THE ASSESSMENT:
+
+The main objectives of this assessment are to (a) demonstrate that you have learned the fundamental issues of 
+networks and operating systems in the tutorials, (b) be able to set up and test a simple network in support of 
+this, and (c) be able to troubleshoot problems with distributed systems. 
+
+
+These objectives satisfy the following learning outcomes of the module as re-stated below: 
+LO1: Demonstrate understanding of the fundamental networking and operating system 
+technology issues
+LO2: Set up and test a simple network.
+LO3: Assess requirements and problems that arise when a distributed system is designed and 
+implemented.
+
+
+DESCRIPTION OF THE ASSESSMENT:
+
+
+You are the IT manager at the local primary school and are in charge of the new virtual learning application deployment 
+in your school. NOSSoft distributes the client-server applications calcClient and calcServer that allow users to 
+perform the four basic maths operations. Your school has been using this for some time and is happy with its 
+functionality. However, NOSSoft has released calcClientUpdate and calcServerUpdate and, after testing, you 
+have discovered that it does not work properly. The problem is that NOSSoft does not believe you and has 
+repeatedly said that there must be something wrong with your network setup.
+You need to prove to them that their update and not your network is the problem!
